@@ -1,78 +1,113 @@
-Zentalk – AI Chat Application 🤖💬
+# **Zentalk – AI Chat Application 🤖💬**
 
-A ChatGPT-like AI chat application built using the MERN stack and integrated with an AI API to generate intelligent responses.
+A **ChatGPT-like AI chat application** built using the **MERN stack** and integrated with an AI API to generate intelligent responses.
+
 Users can create chats, view conversation history, and interact with an AI assistant in real time.
 
-🚀 Features-
+---
 
-🧠 AI-powered chat responses
+## 🚀 **Features**
 
-💬 Real-time conversation interface
+- 🧠 **AI-powered chat responses**
+- 💬 **Real-time conversation interface**
+- 🗂 **Chat history with thread management**
+- ➕ **Create new chats**
+- 🗑 **Delete chat threads**
+- 📜 **Markdown support for AI responses**
+- 💻 **Syntax highlighting for code blocks**
+- ⚡ **Fast and responsive UI**
 
-🗂 Chat history with thread management
+---
 
-➕ Create new chats
+## 🛠 **Tech Stack**
 
-🗑 Delete chat threads
+### **Frontend**
+- React.js
+- CSS
+- JavaScript
 
-📜 Markdown support for AI responses
+### **Backend**
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
 
-💻 Syntax highlighting for code blocks
+### **AI Integration**
+- HuggingFace API
+- MiniMax AI Model
 
-⚡ Fast and responsive UI
+---
 
-🛠 Tech Stack-
+## ⚙️ **Installation**
 
-Frontend
+### **1️⃣ Clone the repository**
 
-React.js
+```bash
+git clone# **Zentalk – AI Chat Application 🤖💬**
 
-CSS
+A **ChatGPT-like AI chat application** built using the **MERN stack** and integrated with an AI API to generate intelligent responses.
 
-Javascript
+Users can create chats, view conversation history, and interact with an AI assistant in real time.
 
-Backend
+---
 
-Node.js
+## 🚀 **Features**
 
-Express.js
+- 🧠 **AI-powered chat responses**
+- 💬 **Real-time conversation interface**
+- 🗂 **Chat history with thread management**
+- ➕ **Create new chats**
+- 🗑 **Delete chat threads**
+- 📜 **Markdown support for AI responses**
+- 💻 **Syntax highlighting for code blocks**
+- ⚡ **Fast and responsive UI**
 
-MongoDB
+---
 
-Mongoose
+## 🛠 **Tech Stack**
 
-AI Integration
+### **Frontend**
+- React.js
+- CSS
+- JavaScript
 
-HuggingFace API
+### **Backend**
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
 
-MiniMax AI model
+### **AI Integration**
+- HuggingFace API
+- MiniMax AI Model
 
-⚙️ Installation
-1️⃣ Clone the repository
-git clone https://github.com/yourusername/zentalk-ai-chat-app.git
-2️⃣ Install dependencies
+---
 
-Frontend
 
+### **1️⃣ Clone the repository**
+
+```bash
+git clone https://github.com/HarshitaJain10/AI-Chat-App-ZenTalk.git
+```
+### **2️⃣ Install dependencies**
+
+```
 cd frontend
 npm install
+```
+```cd backend
+npm install```
 
-Backend
-
-cd backend
-npm install
-3️⃣ Setup environment variables
-
-Create a .env file in the backend folder.
-
+### **3️⃣ Setup Environment Variables**
+```
 MONGO_URI=your_mongodb_connection_string
 OPEN_KEY=your_ai_api_key
-4️⃣ Run the application
-
-Start backend
-
+```
+### **4️⃣ Run the application**
+```
 npm run dev
+```
 
-Start frontend
+### **👩‍💻 Author**
 
-npm run dev
+Harshita Jain
